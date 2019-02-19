@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# curl -H "xos-username: admin@opencord.org" -H "xos-password: letmein" -X POST --data-binary @seba-poc1-argela-seba-subscribers.yaml http://192.168.70.21:30007/run
+# curl -H "xos-username: admin@opencord.org" -H "xos-password: letmein" -X POST --data-binary @seba-poc1-seba-poc1-subscribers.yaml http://192.168.70.21:30007/run
 
 tosca_definitions_version: tosca_simple_yaml_1_0
 imports:
