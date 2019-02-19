@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Automated deployment configuration for ONF/ON.Lab physical POD 1
-
+#şizslşizlxşizxlzşix
 ---
 
 kube_config: '/var/jenkins_home/workspace/deploy-seba/pod-configs/kubernetes-configs/seba-poc1.conf'
