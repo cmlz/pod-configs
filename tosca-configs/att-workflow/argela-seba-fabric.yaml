@@ -117,7 +117,7 @@ topology_template:
       properties:
         serial_number: ISKT71E81978
         pon_port_id: 536870912
-        device_id: of:00010000c0a8461f #OLT OpenFlow ID
+        device_id: of:00000000c0a8461f #OLT OpenFlow ID
       requirements:
         - owner:
             node: service#att
@@ -128,7 +128,7 @@ topology_template:
       properties:
         serial_number: ISKT71E81988
         pon_port_id: 536870912
-        device_id: of:00010000c0a8461f #OLT OpenFlow ID
+        device_id: of:00000000c0a8461f #OLT OpenFlow ID
       requirements:
         - owner:
             node: service#att
@@ -139,7 +139,7 @@ topology_template:
       properties:
         serial_number: ISKT71E81998
         pon_port_id: 536870912
-        device_id: of:00010000c0a8461f #OLT OpenFlow ID
+        device_id: of:00000000c0a8461f #OLT OpenFlow ID
       requirements:
         - owner:
             node: service#att
@@ -150,7 +150,7 @@ topology_template:
       properties:
         serial_number: ISKT71E819B8
         pon_port_id: 536870912
-        device_id: of:00010000c0a8461f #OLT OpenFlow ID
+        device_id: of:00000000c0a8461f #OLT OpenFlow ID
       requirements:
         - owner:
             node: service#att
