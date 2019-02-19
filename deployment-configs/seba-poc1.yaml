@@ -34,23 +34,28 @@ nodes:
 
 fabric_switches:
   -
-    mac: 'a8:2b:b5:d1:f3:ec'
-    ip: '192.168.70.40'
+    mac: 'b8:6a:97:73:d8:3a'
+    ip: '192.168.70.41'
     user: 'root'
     pass: 'onl'
 
 olts:
   -
-    ip: '192.168.70.30'
+    ip: '192.168.70.31'
     user: 'root'
     pass: 'onl'
     fortygig: 'true'
 
 onus:
   -
-    serial: 'BRCM12345678'
+    serial: 'ISKT71E81978'
   -
-    serial: 'BRCM12345679'
+    serial: 'ISKT71E81988'
+  -
+    serial: 'ISKT71E81998'
+  -
+    serial: 'ISKT71E819B8'
+
 
 srcHost:
   ip: '10.1.50.22'
