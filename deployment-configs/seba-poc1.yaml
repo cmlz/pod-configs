@@ -48,13 +48,13 @@ olts:
 
 onus:
   -
-    serial: 'ISKT71E81978'
+    serial: 'ISKT71e81978'
   -
-    serial: 'ISKT71E81988'
+    serial: 'ISKT71e81988'
   -
-    serial: 'ISKT71E81998'
+    serial: 'ISKT71e81998'
   -
-    serial: 'ISKT71E819B8'
+    serial: 'ISKT71e819B8'
 
 
 srcHost:
