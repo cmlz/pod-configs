@@ -42,15 +42,15 @@ topology_template:
         routerMac: 00:00:02:01:06:01
 
     switch#leaf_2:
-          type: tosca.nodes.Switch
-          properties:
-            driver: ofdpa3
-            ipv4Loopback: 192.168.0.202
-            ipv4NodeSid: 18
-            isEdgeRouter: True
-            name: Leaf_2
-            ofId: of:0000000000000003 #Leaf Switch DPID
-            routerMac: 00:00:02:01:06:02
+      type: tosca.nodes.Switch
+      properties:
+        driver: ofdpa3
+        ipv4Loopback: 192.168.0.202
+        ipv4NodeSid: 18
+        isEdgeRouter: True
+        name: Leaf_2
+        ofId: of:0000000000000003 #Leaf Switch DPID
+        routerMac: 00:00:02:01:06:02
 
     # Setup the OLT switch port
     port#olt_port:
