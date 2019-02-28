@@ -148,7 +148,7 @@ topology_template:
     ISKT71E819B8:
       type: tosca.nodes.AttWorkflowDriverWhiteListEntry
       properties:
-        serial_number: ISKT71e819B8
+        serial_number: ISKT71e819b8
         pon_port_id: 536870912
         device_id: of:00000000c0a8461f #OLT OpenFlow ID
       requirements:
